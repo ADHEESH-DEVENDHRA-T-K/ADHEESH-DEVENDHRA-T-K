@@ -91,6 +91,21 @@
 </div>
 
 ---
+## :bar_chart: Leetcode Stats
+
+<div align="center">
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/adheesh14?theme=dark&border=0" />
+</div>
+
+---
+## :bar_chart: GeeksforGeeks Stats
+
+<div align="center">
+  <br/>
+  <img src="https://gfgstatscard.vercel.app/adheebj2n" />
+</div>
+
 
 ## :heart: Support Me
 
