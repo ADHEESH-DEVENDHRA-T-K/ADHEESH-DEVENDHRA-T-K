@@ -5,21 +5,20 @@
   Hi, I'm <strong>Adheesh Devendhra T K</strong>
 </h1>
 
-<h3>Full Stack Developer</h3>
+<h3>Enthusiastic Problem Solver</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    Dedicated and consistent problem solver with solid knowledge in Data Structures and Algorithms. Focused on writing clean, optimized code and developing scalable software solutions. 
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:adheesh14@gmail.com"><img src="https://img.shields.io/badge/📧_adheesh14@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+   
   </p>
 
 <h3>:globe_with_meridians: Socials</h3>
@@ -31,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/adheesh14">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadheesh14&logo=leetcode&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadheesh14&logo=leetcode&logoColor=yellow" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/adheebj2n">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
